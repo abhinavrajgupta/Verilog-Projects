@@ -38,7 +38,7 @@ This project is a strong demonstration of state machine design and simulation â€
 
 Each folder typically includes:
 - `.v` source files (Verilog modules)
-- Testbenches (`*_Testbench.v`)
+- Testbenches / `*_Testbench.v`
 - Supplemental diagrams or documents, if any
 
 ## ðŸ“Œ Note
